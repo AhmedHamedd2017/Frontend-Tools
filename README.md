@@ -13,6 +13,7 @@ Contributions are appreciated please follow [this](https://github.com/AhmedHamed
 - [mixkit.co](https://mixkit.co/) — Stock videos, stock music, sound effects and video templates — (Free)
 - [lottiefiles.com](https://lottiefiles.com/) — Animated lottie files — (Free/Premium)
 - [freepik.com](https://www.freepik.com/) — High-quality photos, videos, vectors and more — (Free/Premium)
+- [craftwork.design](https://craftwork.design/) — UX/UI kits, illustrations, mockups, fonts and more — (Free/Premium)
 
 ## SVGs
 - [shapedivider.app](https://www.shapedivider.app/) — SVG section dividers — (Free)
