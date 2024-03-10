@@ -5,9 +5,13 @@
 Contributions are appreciated please follow [this](https://github.com/AhmedHamedd2017/Frontend-Tools/blob/main/contribute.md)
 
 ## Contents
+- [Inspiration](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#inspiration)
 - [Media](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#media)
 - [SVGs](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#svgs)
 - [Backgrounds](https://github.com/AhmedHamedd2017/Frontend-Tools/edit/main/README.md#backgrounds)
+
+## Inspiration
+- [calltoinspiration.com](https://calltoinspiration.com/) — Get inspirations to commonly used web parts — (Free)
 
 ## Media
 - [mixkit.co](https://mixkit.co/) — Stock videos, stock music, sound effects and video templates — (Free)
